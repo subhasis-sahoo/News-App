@@ -1,2 +1,2 @@
 # News-App
-A instant news app using news apicd
+A instant news app using news api
